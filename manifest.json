@@ -1,0 +1,18 @@
+{
+  "name": "RESERVE — Haushaltsvorrat",
+  "short_name": "RESERVE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07100d",
+  "theme_color": "#07100d",
+  "description": "Digitaler Haushaltsvorrat mit Ablaufwarnungen und Nachfüllliste.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
